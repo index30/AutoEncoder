@@ -1,0 +1,11 @@
+batch_size: 128
+decode_clf: 'conv'
+encode_clf: 'conv'
+encode_dim: 32
+epochs: 50
+image_size: !!python/tuple [28, 28, 1]
+loss: 'binary_crossentropy'
+model_name: 'model.h5'
+model_root: 'model'
+optimizer: 'adam'
+latent_dim: 2

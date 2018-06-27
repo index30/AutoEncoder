@@ -1,0 +1,11 @@
+__pycache__
+model/
+
+.DS_Store
+*.png
+*.jpg
+*.bmp
+
+### tmp
+vae*
+cvae*
