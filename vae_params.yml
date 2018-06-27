@@ -1,0 +1,11 @@
+batch_size: 256
+decode_clf: 'vae'
+encode_clf: 'vae'
+encode_dim: 32
+epochs: 20
+image_size: !!python/tuple [28, 28, 1]
+loss: 'binary_crossentropy'
+model_name: 'model.h5'
+model_root: 'model'
+optimizer: 'adam'
+latent_dim: 2

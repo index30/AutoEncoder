@@ -7,5 +7,4 @@ model/
 *.bmp
 
 ### tmp
-vae*
 cvae*
