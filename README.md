@@ -31,7 +31,7 @@ if you want to change model
 $ python3 conv_ae.py train --params_path='***.yml'
 ```
 
-### variational autoencoder(private)
+### variational autoencoder
 ```
 $ python3 vae.py train
 ```
